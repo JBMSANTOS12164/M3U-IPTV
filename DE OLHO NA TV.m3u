@@ -3,27 +3,16 @@
 
 
 
-#EXTM3U
-#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",ENCUENTRO
-https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",DEPORTV
-https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master_960x540_1400k.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",PAKAPAKA
-https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",FRANCE24
-https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master_1280x720_2200k.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",MIRADOR
-https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png " group-title="ARGENTINA",CINEAR
-https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-id="https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w414140644.m3u8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/s200/GLN%20TV.jpg" group-title="CANAL DE FILMES", GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w414140644.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",Las Estrellas
-http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LINK" tvg-logo="IMAGEM" group-title="CANAL DE FILMES", NOME
+LINK
 
 
 
@@ -43,8 +32,8 @@ https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w196313964
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjhd8a0qbnpyzMexhOlGEc8HeN7IabZgV9wo1YHNRrTwP1flePpVCc_85w815kehj0o877xOhYZbHFOxUiNo4iADc7LyG0dE-gkNsVRL6MrK0AgBkaEXTdj7S6xOFpLwzWho6bqq1aCouA-c0qSMG1nBOw_0Na4iqRpARFP5okSGd3EoqrDuh32uj/s200/XTREME%20TV.jpg" group-title="CANAIS DE FILMES" , XTREME TV 
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w686114841.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/s200/GLN%20TV.jpg" group-title="CANAIS DE FILMES" , GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w414140644.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
