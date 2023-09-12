@@ -1,28 +1,5 @@
 ﻿#EXTM3U
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w414140644.m3u8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/s200/GLN%20TV.jpg" group-title="CANAL DE FILMES", GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w414140644.m3u8
-
-#EXTINF:-1 tvg-id="LINK" tvg-logo="IMAGEM" group-title="CANAL DE FILMES", NOME
-LINK
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicKmtuEVzlO1bmQ-OrMmipa_1d7H_rCRceQ7ODwWM6fVp_uynxUx9itQo9410oCF-xTiZxriltflveGnstcOQHF__9RwvIYt00s8OxU6autSSDqB7-9S_eu7ZR7jBynsDUTJBPmyrHjN_tq7gfkFPyKRrlI-0wMg_xaBFhCpAHOhFTYx6E1CKvQLef/s200/TV%20NOVA%20PLAY.jpg" group-title="CANAIS DE FILMES" , TV NOVA PLAY 
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1728026920.m3u8
 
@@ -35,8 +12,17 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w686114841.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/s200/GLN%20TV.jpg" group-title="CANAIS DE FILMES" , GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w414140644.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjhCZ9zZcLwYKGy_-3sqIcjm9rYVaM5aWxCj-t52M3NnuaOuHyEFABWzcop_B5ZnpCPeVnslyzunJGQc3vBi6Pn9VLwpapYNQh7nO1rkcAcJzctncX49C6FjSda6jgqFt4jumXDh5H3OZXQtX97FPzhRkjo6tZQY6GXphlZ8gVIRHMQc8zr43oj1E5/s200/IMPERIAL%20TV.jpg" group-title="CANAIS DE FILMES" , IMPERIAL TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwKz4lzzLeOh2WxIsSnBaY54IEvSh6KJ0SNRXu1wlIbSH7wjABdN2eJm4nmo017AL1pZkhK7tAI_1I6bkWWB5GD8BL2R994BHG9FXo5P7UIOUW39lpp5E24WRYWb1tiQmSTv1zbEIHBH2iwFELtCvQniNCkKQM5y967GTM3WsDLPrVGtB9pj7UQe67Bo/s200/REDE%20CLOUDING%20TV.jpg" group-title="CANAIS DE FILMES" , REDE CLOUDING TV 
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1963599728.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-zvFnK1n-8BUtrbjDdsd1bXqkufZibUIPXWaA8dl9KamnTAMpxTavGHdn9z4GxgRsdw4w1Y7OWOo9uuehnWcrG-OpBD9NIB1qSFOYMAybVv9SIeQiKPhyg3preRvgc7s_xG4A236Eio6fDEvk9q0lok6oJIIgiafCKXjyUt3JBmqdntPxY8ndqo12/s200/TV%20MAIS%20BRASIL.jpg" group-title="CANAIS DE FILMES" , TV MAIS BRASIL
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w638249.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu6ZyyBGDUfyiaLVyIGGjMdnvfTQKhsH7n01owVYww8KvZMjUDcgWyvdPtv-PaDqKSEwBShbvOId_KPf9smR6_y7FWuBh1LPrlzFnRMVW5IiIEwJiOObUMFEfP7ntmxtkWmmgr41AifvJafrYu3UazXPssYFLSs4W-DdrQ2ttpm0J35z27IFe6yI3G/s200/TELA%20VIVA%20TV.jpg" group-title="CANAIS DE FILMES" , TELA VIVA TV 
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w959645581.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
@@ -47,14 +33,7 @@ LINK⚫
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
-LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
-LINK⚫
 
 
 
@@ -103,4 +82,12 @@ LINK⚫
 ###################################################################################################################
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫" ,NOME⚫
 LINK⚫
+
+
+#EXTINF:-1 tvg-id="LINK" tvg-logo="IMAGEM" group-title="CANAL DE FILMES", NOME
+LINK
+
+
+
+
 ###################################################################################################################
