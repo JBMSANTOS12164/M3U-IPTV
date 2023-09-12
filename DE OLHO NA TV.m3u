@@ -4,49 +4,76 @@
 
 
 
-#EXTINF: -1, XTREME TV 
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w306251298.m3u8
 
-#EXTINF: -1, WEB TV CLÁSSICOS DO CINEMA 
-https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1806172658.m3u8
 
-#EXTINF: -1, TV NOVA PLAY 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicKmtuEVzlO1bmQ-OrMmipa_1d7H_rCRceQ7ODwWM6fVp_uynxUx9itQo9410oCF-xTiZxriltflveGnstcOQHF__9RwvIYt00s8OxU6autSSDqB7-9S_eu7ZR7jBynsDUTJBPmyrHjN_tq7gfkFPyKRrlI-0wMg_xaBFhCpAHOhFTYx6E1CKvQLef/s200/TV%20NOVA%20PLAY.jpg" group-title="CANAIS DE FILMES" , TV NOVA PLAY 
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1728026920.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI45izLHCB8XG80w1gQyQuPY023iQUlUTPydEz-HRv1VUwZ7cUnHuJeIURmc3qUEyVcgETOOI7MmP6Ev06k9bZLfL8xKPCJz7fdFncWLww9nTuzSIog_SLKdjxwqRjmVXoUmBc1Q4PQmSziij4UZqas8TxpjuFEAYotogtFEd0TP9QK1LaJoqLOY4G/s200/WEB%20TV%20CL%C3%81SSICOS%20DO%20CINEMA.jpg" group-title="CANAIS DE FILMES" , WEB TV CLÁSSICOS DO CINEMA
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1963139647.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjhd8a0qbnpyzMexhOlGEc8HeN7IabZgV9wo1YHNRrTwP1flePpVCc_85w815kehj0o877xOhYZbHFOxUiNo4iADc7LyG0dE-gkNsVRL6MrK0AgBkaEXTdj7S6xOFpLwzWho6bqq1aCouA-c0qSMG1nBOw_0Na4iqRpARFP5okSGd3EoqrDuh32uj/s200/XTREME%20TV.jpg" group-title="CANAIS DE FILMES" , XTREME TV 
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w686114841.m3u8
 
-
-
-
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
 
-#EXTINF: -1, NOMECANAL⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
 LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES" , NOME⚫
+LINK⚫
+
 
 
 
@@ -57,17 +84,6 @@ LINK⚫
 
 
 ###################################################################################################################
-EXEMPLO1
-
-#EXTM3U
-
-#EXTINF: -1, NOMECANAL
-LINK
-###################################################################################################################
-EXEMPLO2
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAL" ,1NOME
-LINK
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫" ,NOME⚫
+LINK⚫
 ###################################################################################################################
