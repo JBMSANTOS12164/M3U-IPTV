@@ -1,6 +1,208 @@
 ﻿#EXTM3U
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://amd01eng.akamaized.net/hls/live/2008102/pgm_fazenda15/hdntl=exp=1696141693~acl=%2f*~data=hdntl~hmac=4e467b4117e4ffe00d89d5d7002c13d1896bf68ba5a61f050f26e74307721c1d/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index_video_4_0_991285.mp4?m=1686581285
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv3.webtvninjas.com.br/lucas3285/lucas3285/chunklist_w2047741509.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w144196394.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w40178713.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w622103593.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv3.webtvninjas.com.br/lucas3285/lucas3285/chunklist_w2047741509.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w587013184.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w566923065.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w253928882.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://serv2.videovox.pw/video13154/video13154/chunklist_w1096251187.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w558726249.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w1792408655.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stream.ads.ottera.tv/cl/230930ckbs3qtm3b65qnpfndhg/1280x720_3071200_0_f.m3u8?i=475_2153
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video04.logicahost.com.br/tvcidade/tvcidade/chunklist_w1071775973.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w72758822.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video05.logicahost.com.br/tvtremembe/tvtremembe/chunklist_w301995848.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w2097513324.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1622043285.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb543d197c6c668984cb3b6fcef040a1f9b753fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27753c29e0a957f378bbdbe306f2c180680585ee2be5da5ef940912c76da0b602488b2d45e3875ccdd70eaf82d353cc408e23f60998c4f5d8ce1183d3c47ef853e335445c70259a832dc69958e3829b5bd2fd1b592e94e855c2e99c6c0ec421614ef9e5c2b3178779acba04f1aeb32662e222b73f9f7fa24986ec4bb2a4b8de3834513e7af40055cec6a187eb3c3dbc26dcb0e8d37779db857cd2ab660caa401b1aea95fb1596c2b65bb422cfd303786d98c015cbcff5eb9bc1cfd70a304abb893844f9a4fe01951a7c02d01cfa24d86aa1cd126e7a4256b99b59c19cd8649c032567e173db0912b5d78acc8a406b8a282c53e664d64c162ce2002c2db563a9c17c5b80285cd16e7de30e61c902dda83cf9a2ece00410bcca8817ac38a1e65c92be29815911754ef3fe2554400c5ad5ed6d027939e04df6dcc7e4385851bbb99db0901d68470a16540d99eba825c8d98e7a4b56e457212f254140d854983b8f541c4e7a9a6ca6c663438c082522f1b47f0c0a1ef1e685c1d6868414cf30b9a6d0302c295670b235115407febf8e4bf22b44786e27ee2a6044b8471702dd9cc7e196977d8cfb40af2b69006cd5fa74105904196efb0c81c9c985f6cc24a64bd8364a/106/848x480_1249336/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stream.ads.ottera.tv/cl/230930ckbs55u3pdfp97o9nrhg/854x480_1355200_2_f.m3u8?i=475_2553
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index_audio_10_0_991389.mp4?m=1686581285
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w972270930.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w915079575.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv3.webtvninjas.com.br/lucas3285/lucas3285/chunklist_w1565370796.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stream.ads.ottera.tv/cl/230930ckbs7itos1o1sjj7a22g/854x480_1355200_2_f.m3u8?i=475_4864
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/chunklist_w1690727547.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stream.ads.ottera.tv/cl/230930ckbs708gv6tlku8ckovg/854x480_1355200_2_f.m3u8?i=475_758
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w737836537.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/chunklist_w517965615.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w2016838446.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJ4dq_vJWrL1_vGX0fZyO4wcbemI5GtkLs7MLnxnXe63)/dm/3/x7yb4xm/s/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w859502293.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w918928328.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://a.cdni.live/peruchanel/peruchanel/chunklist_w2037530833.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stream.ads.ottera.tv/cl/230930ckbscvh9ffqpcc365f40/1280x720_3071200_0_f.m3u8?i=475_1310
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w1352978275.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.srvif.com/adorando/adorando/chunklist_w1866197904.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://server02.tvmais.net.br/mistserver/hls/radiometropolitana/1_0/index.m3u8?mTrack=1&iMsn=5252&sessId=1994213498
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w287681298.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w385970237.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w38086283.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w453708779.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w1517420315.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w237727999_b1548000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
+https://stmv1.srvif.com:1443/play.php?login=movies&video=CHRISTMASTV/Casamento%20de%20Natal%20Dublado.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w295245499.m3u8
 
@@ -291,28 +493,23 @@ SITE🔴
 
 
 
-############################### https://supertvaovivo.tv/ ##################################################
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
-https://0045-vos.dtvott.com/DASH/stream_08/1689834735934_init.m4i
-
 #############################  https://tvonline1.fm/ #############################################
 #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
 https://stmv1.srvif.com/canal29/canal29/chunklist_w579314638.m3u8
+
 #################################  https://www.cxtv.com.br/ ##########################################
 #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w2143885053.m3u8
-################################# https://superflix.mx/categoria/canais/##########################################
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
-https://superflix.mx/categoria/canais/
-#################################  https://superflix.mx/categoria/canais/  ##########################################
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
-https://doidopao.cf/hls1/amc/1695959837503.csv
-#################################  https://tvonline.global/  ##########################################
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
-https://pantamau.cf/hls1/afazenda15a/1695959997139.pict
-#################################  https://multicanais.fans/  ##########################################
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
-https://origin.esporteone.com/TNTSERIESSD/tracks-v1a1/mono.m3u8?md5=UcxikDQAvMpA5uJG1DG4YQ&expires=1695967353
+
+
+
+
+
+
+
+
+
+
 #################################  URL🔴  ##########################################
 #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", Test
 LINK🔴
