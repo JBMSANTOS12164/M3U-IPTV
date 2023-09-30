@@ -4,11 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
-https://amd01eng.akamaized.net/hls/live/2008102/pgm_fazenda15/hdntl=exp=1696141693~acl=%2f*~data=hdntl~hmac=4e467b4117e4ffe00d89d5d7002c13d1896bf68ba5a61f050f26e74307721c1d/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
-https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index_video_4_0_991285.mp4?m=1686581285
 
 #EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="TV", CANAIS
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
