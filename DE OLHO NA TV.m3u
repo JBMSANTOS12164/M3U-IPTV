@@ -411,59 +411,92 @@ https://cdn.jmvstream.com/w/AVJ-12928/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2RsDVGK7tulCEUFrn2CTLYbT8A1rkCeKHnmbqtHpnEV-qRKVVHlKTUzGxXNjW141Xhos-IrarOXrnw2CFSgga5DaPwZ3ww1tUgpMWKZt0regIIlj1L5bT7kkZedteKHHFNyoEY2GFFQMKTECZVj2ZVFrP0p7rBgP0awUMPxh08Fd9soIShKl9lAMp/s200/TV%20BRASIL%20HITS.jpg" group-title="TV DESENHOS" , TV BRASIL HITS 
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w367308759.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE2M74k32CztEikD8rvhCj2PgvSwTH2leoQvLWTlFrgztKz6KPWXT1NHf8u45TTzdAFrv3fB43vsEXyabYbdwTEBU5I1l4VaFxnnKAihjvEZ5wZNzMdj_drK1tCCYxDcPvUpcNQpWE6rizr3KPekvHrrj0azv16_5oQmRaKTlRf2UWXAjo71ojijvW/s200/X%20PLUS%20TV.jpg" group-title="TV DESENHOS" , X PLUS TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w2122906396.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP4bPi0BtzLoeCZB7j9rAMiUyXxeA_Ya5TMegX4FyErgSw-76AOeq1c63Oo-Vq3Tb_UVnU6R4GJMveeg9BikZkkqw1iWFVQwWjEM0H9d5Lxp0THb3WPbs17Pkrwanl94l5n8LrLceuCZYVxiL8zH-iSaRTnQ4c_1r1xSaES-zuCPkn5spQStriTzjF/s200/TV%20RIO%20GRANDE.jpg" group-title="TV DESENHOS" , TV RIO GRANDE
+https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist_w195553094.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQUzx9hJMUPW3tiEV-Dkbhk-stt9FrCY868hdTOw_JQj8TqcfSsXRpOjIJdk2qEUqa1xMPBQg4_MFAddYL7E2JuLuK4YzpztuX-AA086_oyPf2f0golkTPYylSAG_ooDZ9C-Wl1F218rh2Kz9x0iLPS6Zk0uiHNFMwGMRF74shNuwJyiKTlJBXbDSY/s200/LAVRAS%20CE%20TV%20WEB.jpg" group-title="TV DESENHOS" , LAVRAS CE TV WEB 
+https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w578073542.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijKCgs4kDQm3TOkKXbJAdxSKpqC68VGjn7PPy1QplXoDvc4PyweIPirB5l8BdDUSW6weszLoxCZy7VPLazaFJCsIvrfaI-XO3qumZovSPW_xjxDG7yNkjS8OI4D85iFGOO-qCqxbV1aY74xReOPcOnrlBlHl8GpsgJSa91XT7oIWGOOYkAphnD63MF/s200/REDE%20NGT.jpg" group-title="TV DESENHOS" , REDE NGT 
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJG2xWMr6AowA4t6lnnEvVGjguAWr_Az9WuO-BTtScvY_OulxUHXRra4Lj0V5VT5eI5g0ISS9aYXzHYXGq2xNFdHTjQI8_cp3SpvqYzregT0ivYeQfOfGZDTOdpQ5G3dP3f-2kLQ_Av0NgL8WHiPzaIzvblTFjkzkYZ35lAwG9cnPz2CBqPhfuLus7iYI/s200/KE%20TV.jpg" group-title="TV DESENHOS" , KE TV
+https://stmv7.samcast.com.br/ketv/ketv/chunklist_w807953763.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlDeBFdRrspPMRNJmiFJBqNX-FVtIsnq5BaaEMGDYMAIzs6Dyem6ZChaApnvLRPEFn527r-mMLYv_DtvBKINof-PSBwGiZExS9emh73Nus7Ob6gZqZnQ06OX-oyek7vR983sBRyOdaLm6-AwxWLN8l6wHy7yqBMcn-L8vK_J9OwI4gAWMUY07eF6Kbfvw/s200/TV%20POMBAL.jpg" group-title="TV DESENHOS" , TV POMBAL 
+https://a.cdni.live/tvpombal/tvpombal/chunklist_w1386096954.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqYErXjEoAOsbKdrQOLBWhgSr-linqOljJ23MXgctACjTo0YHPS1DhgToiJxdMtXokyT3Cq7WR7U3NguwQ_-fwVj6reoLCbpIdiwe2nC2RZR2uCwd-o4q6L9YFaHKra_SYkZxA-JBLZ2qEXvG8TeLBY0acISmdlIc4UZuac6naHpdkGapTfdKG-Ph/s200/TV%20KIDMAIS.jpg" group-title="TV DESENHOS" , TV KIDMAIS 
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w299991646.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRQ8CWsGTvUijXA6uArKBJf0Jy9bFmf37n-UIhAt87fDHH1LcTRGgvOMm6lpx-Gd8KG4nV0vXtLkXdVQLRjBYfx_Mgk49pIW9qUgdgyVz10xyivi_Sqr1IidXI1rXOXe1QhbYemezv3TipvGQc7xCwClDNnFR6gjdk_rPTJIPmy-yAq6Fui3-DRcHYuvg/s200/TV%20RBC.jpg" group-title="TV DESENHOS" , TV RBC 
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh9UnKD1YYyXz8WAgHumeM-fwtwf8AJB73vED9yhvOrcNEnAqLtiAmdUMWqpxDiqBMoZvWbFE7_Z8nebg3dsV93-rXkpXi0y126WcE9QJqOtV-KGNQ3Zunma0sk2_WruQ-Zc46H9GTF2aMGr9fr1-o7QWkEF6_DCGFxN61mxp2AB5DU8abl9kIHVNy/s200/TV%20POTENGI.jpg" group-title="TV DESENHOS" , TV POTENGI
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w752124532.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jAMEZ3Nu9JFotOXhmXggu7EyBdbfr4obDLXwFHbw48wUdUgdTpmjNkacaPoidVeoQOoohV1KnlWxY9UY7I6BfA8nH-EaRakLEoDOdghpLqkg6JbQB4DvACSD6mn12WsYLjroKk1HeyWR7AiQ_WYxSJ6n6LVTbtNybNzohfsOlb5l2CAb2-tXRRfp/s200/CAMPOS%20WEB%20TV.jpg" group-title="TV DESENHOS" , CAMPOS WEB TV
+https://stm1.rbsys.radio.br/joseroberto9307/joseroberto9307/chunklist_w1617925944.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1LE99EEVt4jC5SKGAQ0c8U8OUzuxChD21jAqw9pFtuZ_L6XB-v1qk2LyrGqe0a05ny_64qG_MEmLi8-T6gX_BXTb4iISBGQsZEYfkPtJFcnF-MNVQSvqS5rUware0UjMhFGVxtVopCGkId0U1x3PhXb6tIDttAQGlIecs2laDR8CA2309LmG6GKzw/s200/TOON%20GOGGLES.jpg" group-title="TV DESENHOS" , TOON GOGGLES BRASIL
+https://stream.ads.ottera.tv/cl/231003ckdosjeptu7fhfq92rug/1280x720_2300000_0_f.m3u8?i=475_274
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYL8S8wuyPZagIXphu_408FlUrASU0yTItRdBJCUwsdcNIJTeVYE7Y3cnY-AOc4eMvtyHBWCNJ8aWQNFXRZrYXZSP6ypKPiO5KxHBh7rIq76_O1I4UeLCWdXe-Is8d5CJiESi2KL3mqTDt4BhhulBMejVjv2dkRaEfFDNIX6kn7_JOKRNPfhTZr0mu/s200/TV%20JUNDIA%C3%8D%20HOJE.jpg" group-title="TV DESENHOS" , TV JUNDIAÍ HOJE
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1110558545.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsgLxSYUQJffXnqbeY29_vBtIdDC4GFT8gBw8wjCwVxuheXf9UtVZb8uC4wrEUCNnzNCRIrUZML4uxJ8AtIs2kk4s8z53rgbA9GLso6qMelNui8I3VsVuhXgqkln8GMw42Xhzhjqonx_G2d3i9zeQ4RkIIbKGokG9lNP9sJDwlttLfDsNyuoo3sl5r7wo/s200/MEGHA%20WEB%20TV.jpg" group-title="TV DESENHOS" , MEGHA WEB TV
+https://stmv1.srvif.com/redemegha/redemegha/chunklist_w476226037.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5WyyI6OZl9xdyOhdGk_xdYpakqkrtJNcsy_uE2s4ub_aSPIgZSUz9YUQ1IS2v9QV9tkw6CztcLme9eJNNcljLhcmJxTpI6BIAID2z3nhxa5UcZtGmr4fEMKaHDMvK0DcktIc7FW-7EO74f9lFUhxu2Xhpxl1-E8tELUO9XRdBE6Z09IVkRMLW9vh/s200/TR%C3%8AS%20PASSOS%20TV.jpg" group-title="TV DESENHOS" , TRÊS PASSOS TV 
+https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBvfAQWvJTXPGbQ5rFW0TzNYztmtMJDNzJeRCNtg_a7eqdcHFlaLi50J02Wi9QokyJkTneT0YTz--b7rCr5E2Vn4LEk9qRlqLmMAFILTM_gIb9G0Uy2QVeSTy2J0-CvyHevD7LuENK_vjFOnoTBnFqbAMiISD9nrdjPhI8Fx-YJVMNNv7QUzjJMT6z/s200/JETSONS%20TV.jpg" group-title="TV DESENHOS" , JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1972755087.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdIpEr5bPDkkCOktTq0LA2tpPCfldwfRP8-0ppPG5KVHvW54mC30_4R_cVkbaG5AndHfQZ9290-ugzgGklh0phxHyuMc45OBnuc2fDNOTEEsUz34lNtq5wXy_h4l-BWQwgihW30TFivig-NJv-5J5RiI4fnYK6buH4fisIZeFYIyP8DJYPXRsV1O_-/s200/VIA%20MORENA.jpg" group-title="TV DESENHOS" , VIA MORENA 
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkjDEblxNknpmfaaWmpjGLmGZorqH3euOkaBlri8sOFoot64y4MAjqnpthhcyOvJMHo0Y2zIjNEsyx0HHm6mZG-RDN_D9Aus9CSAsUTPLMT-0CTt9fH_2vSNTsvvsMQtdqQb4D7fVrsoZ_JOukDPEgmbCIYAfNX6G7l-IGG3Z8bChy7z70W_nI_AsgJPw/s200/TV%20GRU%20WEB.jpg" group-title="TV DESENHOS" , TV GRU WEB
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1021140636.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhUZkG5BnRC_tWxYSEjTaAb1-g3WDj7jiknEI0SRmogt54aytJZFoqRsjbxCIr_Ys31qug0dUbyIxeLElclJ2lTahB4ghcaSADn-PWcKZXyB5577ukg8PJ3JlBeLCCKteE9OXOCoaucOEp-VwrSphxNXIG-zSJF47EcDGf1zcC_oIndbTZI8ELyapU/s200/REDE%20UTV%20BRASIL.jpg" group-title="TV DESENHOS" , REDE UTV BRASIL 
+https://5cf4a2c2512a2.streamlock.net/8188/8188/chunklist_w608374552.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_zdko4OPY81w6B4jM4Pes9hL_0lfo3WhjCMf2azCy2VdgQNUNBG6oqA57tDUY1JArNagPaNmTD4JxLFJ9XKCM5w_E4_OXk_KocY2z0eNfnve6ZdBdqls9MvahJYOXfe0yMj1iMHQf9_4TQGaOH8ePZkyKDQxoKjVpqnuht8usvIypQ1KVr5p6Vbi/s200/KURIAKOS%20KIDS.jpg" group-title="TV DESENHOS" , KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1064224026_b3048000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7j1KqaHX1P-cISAsaTQjTsYvgjBxd3fbjBGpsDeF0kT6uZQwZHae0xc8uQojob_lnbbRHCSK4CfNgr9HjWhqjvierdGPCVLKtqPJDUTe2W6iezaJEmjaULt1GktPy6ValIWOy9M3qjFBBrvt8DdWDWh7N9Gm0mjrO2yE8inkt0UXmFIBtTS-d1Wym/s200/ORIUNDI%20TV.jpg" group-title="TV DESENHOS" , ORIUNDI TV 
+https://stmv5.samcast.com.br/oriunditv/oriunditv/chunklist_w1165838470.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJDBZRxKY6QbdxkkFy8k2paf_YyRkWmyrkOY1IFWW8LKQe2W0-cgKqZjfKfBHP4aZqUc_vahIgyE9Du9IDo2EiT6YgmbEmaYGKvbrWxOFYkvFKWv6hCT072N1LyLWMqvtr52AbJVK90y9L5kmyPvN0RIC13EsAezXr7_KdBMFNZnR01qwxChucOLPb9Dc/s200/VISUAL%20TV.jpg" group-title="TV DESENHOS" , VISUAL TV
+https://stmv1.srvif.com/renanxs/renanxs/chunklist_w1656284577.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ZL3OjJXv7cv13p5UVGsx_rxf2OEyIcwGXjIR5WIXuv-_hFJxLkbJ0olW01Wo8vK1tuOLjA26suciOLw_PJZKtIK1WlX26dsAmpoZAaNv74HPXfCw-OO-npbtaccP05H8LjPHZ1o-ghP8u-hQdcqcvVNwn_kG7dft60PHvge4tT72DMAMlNfT-0c4JVw/s200/REDE%20NEWS%20TV.jpg" group-title="TV DESENHOS" , REDE NEWS TV
+https://stmv.jnbhost.com.br/redenewstv/redenewstv/chunklist_w1894004897.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjboM3rPkJUOD2PpdqC8u4-Hao6Rzw9qOdd2FUrSJFLd8aqSmwMs_BKkl4dMjvhZE2gXVTgFrBMb1AS802jgJGxHCSAPfNkpJFwVevQx3NxpjVatzNH1sYeyMnxSWSYz_EAdb_3pcyi6k80q6ZfPdYg0sCsdvS0lv02XY467giSPDhiw6t-VtSTjh7eGSY/s200/MI%20TV.jpg" group-title="TV DESENHOS" , MI TV
+https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNyTZxL0YwZCfPX9mj6WlhXtQl7oyyUvK-FRrUwtZkJISRVgJ7IKWV-bCrhlXEsER4-6-NVQ0-B-8mMuChLQVzzxSVze08ilTHRSegs5FnENIEYeIkaCPYLcNAMUyfRsxf7mN-vOrrk6XU0vKn6nLXjie4qO6T7IcEHHVXcz07MVI-a2wvBdQbwtD-/s200/TV%20ARAGUARI.jpg" group-title="TV DESENHOS" , TV ARAGUARI
+https://stmv7.samcast.com.br/wilson7475/wilson7475/chunklist_w1849609467.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCe6sALcrknc5El__mTiHVXavEi9JDSzZBbR4GOx6OX4POw5qmzIGGhsnkWjmBb9wIWD90HAGhSKnFgzn56uzWvjBK_dVGuQJ6H3qvjrlnyJt-YWbm2PYKsozxnyBvfhVCf1EYLQt7fs6naQYHpk518Wmo5XwHfuUWBs3xQ1t95Cn1jdjNj5qzQAAE/s200/TV%20CULTURA.jpg" group-title="TV DESENHOS" , TV CULTURA (TVC Panorama SC)
+https://tv02.zas.media:1936/panorama/panorama/chunklist_w514054442.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCe6sALcrknc5El__mTiHVXavEi9JDSzZBbR4GOx6OX4POw5qmzIGGhsnkWjmBb9wIWD90HAGhSKnFgzn56uzWvjBK_dVGuQJ6H3qvjrlnyJt-YWbm2PYKsozxnyBvfhVCf1EYLQt7fs6naQYHpk518Wmo5XwHfuUWBs3xQ1t95Cn1jdjNj5qzQAAE/s200/TV%20CULTURA.jpg" group-title="TV DESENHOS" , TV CULTURA (Catve PR) 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w432007891.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCe6sALcrknc5El__mTiHVXavEi9JDSzZBbR4GOx6OX4POw5qmzIGGhsnkWjmBb9wIWD90HAGhSKnFgzn56uzWvjBK_dVGuQJ6H3qvjrlnyJt-YWbm2PYKsozxnyBvfhVCf1EYLQt7fs6naQYHpk518Wmo5XwHfuUWBs3xQ1t95Cn1jdjNj5qzQAAE/s200/TV%20CULTURA.jpg" group-title="TV DESENHOS" , TV CULTURA (TV Futuro RN) 
+https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w2005991012.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk0YoKuA70cUf7kIT3f7w7wmihSROhEuy5ZDYP-3I9tZRDAzIpTE0hJB9T8zQHqjDHZr-Vh6kHZ7c3W0fzVJlL88AptLt4Fy4CiXSQrnHtTL3tzlYNXNHkjvL40XQ23ybXoYKmoUU4_7-OarV5kPTn2UTVS9P837UWwu_vHh2ep4oFU-HaO8oG7EdS/s200/TV%20OP%C3%87%C3%83O.jpg" group-title="TV DESENHOS" , TV OPÇÃO 
+https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/chunklist_w714227075.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
-LINK⚫
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1851595090.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV DESENHOS" , NOME⚫
 LINK⚫
