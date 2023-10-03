@@ -595,68 +595,130 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w2003678478.m3u8
 
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w1519944621.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiipCqLmoiLK7SD2AYrPKnZmOdzekAusfc1-TdC7nDpb2STlKAxFqWfWQsN46odv0DG5loC77bm6ThT5gIud2T-8yDpUJadmkm5cAOA-xlNriANAxD87XsmuFjjUeXlMnIn6y8vthy1VwHarqW1mgLGlLVv-p-i_uPLBJgjiMHN2mESzv4m-oy-ZxLo/s200/TV%20GAZETA.jpg" group-title="TV ABERTA" , TV GAZETA (TV Grão Pará) 
+https://video01.kshost.com.br/moises3834/moises3834/chunklist_w1842670310.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-EI40ClsWnOAoX8J7BBmRnSD1306vo3J8m5x8Ljiich6K-_MwI_-Bwo59ftJ9F0Db8p3ehW47D6HeNA_YBRSIaFmqUGNBWsT5oPENJJmmEzt3NVQvw8XA0CPHBn9kaUTanWmQH8QIWo6t8-MSdM-WePbO4hxJIUTQMi1YO0ETGkNZh4aMpXka34Ba/s200/REDE%20TV!.jpg" group-title="TV ABERTA" , REDE TV! ES 
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCe6sALcrknc5El__mTiHVXavEi9JDSzZBbR4GOx6OX4POw5qmzIGGhsnkWjmBb9wIWD90HAGhSKnFgzn56uzWvjBK_dVGuQJ6H3qvjrlnyJt-YWbm2PYKsozxnyBvfhVCf1EYLQt7fs6naQYHpk518Wmo5XwHfuUWBs3xQ1t95Cn1jdjNj5qzQAAE/s200/TV%20CULTURA.jpg" group-title="TV ABERTA" , TV CULTURA (TV Guará MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w919108469.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBL34J0K7y75_nURJBntrNZ4pyxJNc_iohUu7OIMOYeJXgeLnSRdV2hPNSfTS_dzRjP5gjjqpsmBBbSJpnkP5sMlwlUsJ81ya-Sa7rhRtBZXeangcNcPQpWALcXaTkiaBqFtBjIlxF48iMB4nBhNB85lsRJE4427tCcvgpCF91PWqLmREnGLOpmdON/s200/RECORD%20NEWS.jpg" group-title="TV ABERTA" , RECORD NEWS (TV Sim ES) 
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w744795613.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb5NG6d8im4wL6-fLrIY_ZPBYRUb0CwmHTHy6dXAghtsbgbD_-KvRA3852-Ozq1ZQEVo8Bw4Lc6d2uyt1Zs0eAKbzj9aYtFs2PSBSPXsf6VudscDdjwkfG88XtxcKaG3ud7nDi0MNvIqwqhTkMLsO_JKfS0XMfIMJWUvPtuERB1PH7L4WoAIm2Xn5B/s200/SBT.jpg" group-title="TV ABERTA" , SBT (TV Guajará PA) 
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1959414986.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-EI40ClsWnOAoX8J7BBmRnSD1306vo3J8m5x8Ljiich6K-_MwI_-Bwo59ftJ9F0Db8p3ehW47D6HeNA_YBRSIaFmqUGNBWsT5oPENJJmmEzt3NVQvw8XA0CPHBn9kaUTanWmQH8QIWo6t8-MSdM-WePbO4hxJIUTQMi1YO0ETGkNZh4aMpXka34Ba/s200/REDE%20TV!.jpg" group-title="TV ABERTA" , REDE TV! (TV Arapuan PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1167716946_b2793472.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-EI40ClsWnOAoX8J7BBmRnSD1306vo3J8m5x8Ljiich6K-_MwI_-Bwo59ftJ9F0Db8p3ehW47D6HeNA_YBRSIaFmqUGNBWsT5oPENJJmmEzt3NVQvw8XA0CPHBn9kaUTanWmQH8QIWo6t8-MSdM-WePbO4hxJIUTQMi1YO0ETGkNZh4aMpXka34Ba/s200/REDE%20TV!.jpg" group-title="TV ABERTA" , REDE TV! (TV Pampa RS) 
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1629391691.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIdoJGFd3IpUJ3Vzm3XfmVyaPu20zHt3iQZazAkGuGd8jwsOeSDAwS-n5eClm_M2V0OJA5faVnZOmbHmRZBYNb-T7oVaAvHLMEsTX3CiNHaN81qUaJ1yUpbNVU-fxFv5FFCXv3ItUs2MHIwps0kA57a4rMXtR7HeGbHTyADKohhDhfL2KT-2Emwb3LDQ/s200/TV%20BRASIL.jpg" group-title="TV ABERTA" , TV BRASIL (TV Sim Linhares ES) 
+https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w606471863.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiipCqLmoiLK7SD2AYrPKnZmOdzekAusfc1-TdC7nDpb2STlKAxFqWfWQsN46odv0DG5loC77bm6ThT5gIud2T-8yDpUJadmkm5cAOA-xlNriANAxD87XsmuFjjUeXlMnIn6y8vthy1VwHarqW1mgLGlLVv-p-i_uPLBJgjiMHN2mESzv4m-oy-ZxLo/s200/TV%20GAZETA.jpg" group-title="TV ABERTA" , TV GAZETA 
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-yurBHMVFvzQwJ4NuqFx_c_W9rzwXvVbBxr0HCC71Zj)/dm/3/x89qors/s/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-EI40ClsWnOAoX8J7BBmRnSD1306vo3J8m5x8Ljiich6K-_MwI_-Bwo59ftJ9F0Db8p3ehW47D6HeNA_YBRSIaFmqUGNBWsT5oPENJJmmEzt3NVQvw8XA0CPHBn9kaUTanWmQH8QIWo6t8-MSdM-WePbO4hxJIUTQMi1YO0ETGkNZh4aMpXka34Ba/s200/REDE%20TV!.jpg" group-title="TV ABERTA" , REDE TV! (TV O Dia PI)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w402858639.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5mvA5mqvcuGn3dQlIFW8454cVM4tMpTLhWycO3pn316g5REXzOwOlOXwURkQ9Jre0hzwKiJN8xXBFLfYlt6x_589y_YOpWEKi3v3_EOzKvAnvW_E4qWcFOKzAAzpTXm3UtpF3pxyJs2jcw7UW4JrIjBaivKEj9-Mvp4R3SoZmiIfrFbIiPfUPN3gg/s200/RECORD%20TV.jpg" group-title="TV ABERTA" , RECORD TV (TV Vila Real MT) 
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/chunklist_w475809108.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########################################  TV ESTÚDIO DE RÁDIAS  #############################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-I4qbMPGs5qi-kbCGbkvfYxJWWkGbcyqM-f4OFNCnmje-dMz4WY2LC0_guYJslkjseIqZoDkLgJcwcg6kbjnKn8g7_ORB0pOS7BA6YkdmhDWxoTrCG37BvOqwoXAKsMG3NnLPNaY90nXMN_qSVTL5BzFRUOvKyhtC_ltX1E02iUTelBi-ifN2rEdKmVw/s200/TOP%20TV.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , TOP TV 
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1noC8yOud8LkKF4Lg5y0bHictSHGjBM7PV1PqBviq2nbeX8xRkzUiCip57VgWvrCYM5dzU7nhifTIOAUgTUuwxFnocH6FvXgNpI3Lli2hLxP092FefVtEB-CX8pSamqBNkCburpLs7EAq5Lk22LfcPNkbfnhmED7wa9Bo8PMw6YZG_FnhtvWXbl-/s200/RETRO%20MUSIC%20TELEVISION.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , RETRO MUSIC TELEVISION 
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w2014246221_b2200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwm8MNB3pOMuP5fBTl80kSyCQ-PWG6xfclNKnC7QRNUk-etjXRQDQTvxA7EV9GgNHKfE6WuszYx1brZlc2iF4Xfxe8UiLS9toLMj4dx9NmlC2oT7Fyc1dQJ8N5latNVdkYuiglyHiL7KdP7U6sUGVqPGl3NbFn1-UllYn-d5T8AmT5iu2lvmndqM9z/s200/KPOP%20TV%20PLAY.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , KPOP TV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbyKnRi6OEnw4XEAZdp327YUGCSqN27PAQPLr75Q7XkaETsIXqTK71ycG2PLbtegyYxu062u1_-76IrkXdXpvUs2qg0ORMsS0hlirCZvk02eWmVUUsrG7n0dGywl5yQwdxwJImuB2tJQiBjLVGbdFaPn6RmNA-In1kDo89b9Rsm_-Oro2a_SB9OYnwkE/s200/M20%20TV.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , M20 TV 
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3178028.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiju94V4rxTc8ZA1EnlMMDT2UdR1Qwb3sZAt4dV8IQSRQyvwHuIcpXn6sOvhL4OIhHSLsmt3rcIw_Lp4BhjcnOUguJzmcfu_VnbNXvNgGFpl1QGY15skIB6YwxDKZp7aphGSh3dm3BGws5fqkiL44HS9bzwKu5qPgd8PbQWdOKppy4m7gQ4swgkKz-u/s200/TV%20PORTAL%20ATIVO.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , TV PORTAL ATIVO
+https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc63C1NZugRZjR7_E5AAkylE1dKYMEE0bz6v1CMWmMEjUp1wWoA2M53uUCqYHblprd7FpMVkZMuXPGGWC_O14YgTFQ_nuhfPTFg8oopO4Rf-9_0qV66dmNyJOIjJHIRLEGrtuD_jRqERMN-ZLnOCxeLWVSQCXVxe4pj8L8DDsKT3TjljBjGIKet4Gn/s200/MUSIC%20TOP.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b964000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjIpo3GgK_Gwydi9Gzk7QOByyjRz3O_GGr5s8QvFw5aJalCpbId7qtN0ueYni_PcYYb1gLsH4FxDKGYFy1IH0rn_CDHoZCVYyFmVaVsmzHiXUMIQ6_BhYRQtA45iQbq-v-5BOBTzhblWxd7QkWGxSgI0pKrJCldttJYa4MIFWsw6D2NPsCKdVcO_aM/s200/TOP%20MIX%20TV.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , TOP MIX TV 
+https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist_w459468493.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVZMtl8-iKR41NxkL0koXEXjmx3NmsZaNgVxpWTNimSuqgSEspdhge-jxHgJl5K8swXYNsOnku72ehtO7uSl_KiJisr_hGGwotwMVAIKJYtZyHV-aMkSHUqe8fHSmXmOoJdm5-ZU7NRzvWOjeFh2ui1RAN5l15f5mikLBFsfN7JlfKrDeoEl2s3z6r/s200/GOSPEL%20MUSIC%20TELEVISION.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , GOSPEL MUSIC TELEVISION 
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w2117290354.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjIpo3GgK_Gwydi9Gzk7QOByyjRz3O_GGr5s8QvFw5aJalCpbId7qtN0ueYni_PcYYb1gLsH4FxDKGYFy1IH0rn_CDHoZCVYyFmVaVsmzHiXUMIQ6_BhYRQtA45iQbq-v-5BOBTzhblWxd7QkWGxSgI0pKrJCldttJYa4MIFWsw6D2NPsCKdVcO_aM/s200/TOP%20MIX%20TV.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , TOP MIX TV 2 
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1913106246.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiznJ_APXaUOyuP8RNIDFMjKmJkLhTMqCiy8dB1QeYex51QFFiMrnc3_tZWOmp-L3TP-4snJVWzDW4FhPL8-x0mEUASzg8CFynAcSTJloz44CkzeQ_NL7DVm0SFEeJFlOUYTYWF4e3jlORbLBhY9hyDQ4yDSj1gOphGT6T1MIQoJyL4HsHxIWKJuMDF/s200/TV%20UNI%C3%83O.jpg" group-title="TV ESTÚDIO DE RÁDIAS" , TV UNIÃO NATAL
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
-LINK⚫
-
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ABERTA" , NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
 LINK⚫
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-##########################################  TV EXEMPLO⚫  #############################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES⚫" , NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
 LINK⚫
 
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
+LINK⚫
 
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
+LINK⚫
 
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV ESTÚDIO DE RÁDIAS" , NOME⚫
+LINK⚫
 
 
 
