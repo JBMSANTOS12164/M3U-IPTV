@@ -5,11 +5,7 @@
 
 
 ##################################################################################
-
 ##################################################################################
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="TV SANTOS",  NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
 ##################################################################################
 https://tvonline1.fm/cine-tv-hits/
 ##################################################################################
@@ -19,13 +15,13 @@ https://tvonline1.fm/player.php?v=https://stmv1.conectastreaming.com/hitstv/hits
 ##################################################################################
 https://www.assistirtvgratis.online/2023/09/jogos-mortais-x-dublado-e-legendado.html
 ##################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", TV ONLINE
 https://s-delivery32.mxdcontent.net/v/17e8681f8045a0691b5d96f9f15a7143.mp4?s=c7MhHQWu68J11rDncqQ7NQ&e=1696474913&_t=1696456357
 
 ##################################################################################
 https://www.assistirtvgratis.online/
 ##################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", TV ONLINE
 https://cloclo57.datacloudmail.ru/public/view/7Z5dpM5N5TCgadAPkYAPGqfvcebsfC4GCWU4fbFEn8qCxzyDENBe32cyw29UpbHxJvtF2p/no/ZOUumWz9aaZSbPjy.mp4
 
 ##################################################################################
