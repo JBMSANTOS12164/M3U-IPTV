@@ -1,6 +1,24 @@
 ﻿#EXTM3U
 
 
+
+
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1470303834.m3u8
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1489676386.m3u8
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1740867792.m3u8
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w868451406.m3u8
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w466347746.m3u8
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w859068987.m3u8
+
+
+
+
+
+
+
+
+#########################################################################
+
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="NOME",
 SITE
 
