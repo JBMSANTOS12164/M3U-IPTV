@@ -5,10 +5,35 @@
 
 
 ##################################################################################
-##################################################################################
+####################  https://reidoscanais.com/  #######################
 ##################################################################################
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+https://rdc.judicialresearch.com/api.php?token=dtv&amp;id=telecinepremium&amp;epg=68-SAO%20PAULO,SAO%20PAULO
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+https://reidoscanais.com/embed/?id=telecinepremium
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+https://reidoscanais.com/embed/?id=foxsports2
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", FRAIME
+https://reidoscanais.com/embed/?id=globoce-tvverdesmaresfortaleza
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", INCORPORADO
+https://rdc.judicialresearch.com/api.php?token=dtv&id=globoce-tvverdesmaresfortaleza&epg=203-FORTALEZA,CEARA
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
 LINK⚫
+
+
+
+
+
+
+
+
+
+
 
 
 
