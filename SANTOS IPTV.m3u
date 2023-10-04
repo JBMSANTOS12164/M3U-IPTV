@@ -4,8 +4,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV SANTOS", xxx
-https://amd03eng.akamaized.net/hls/live/2032281/cam1_fazenda15/hdntl=exp=1696538106~acl=%2f*~data=hdntl~hmac=164b959dbebc35b8eeb95c1555c84995f8be8b80ddad7c9918139681e20a89f4/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="TV SANTOS",  NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", xxxx
