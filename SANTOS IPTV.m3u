@@ -5,7 +5,14 @@
 
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="NOME",
-SITE
+https://dtvott-jbc.akamaized.net/dash_live_0009/dash/0009_HBO-video=464800-101787034106540.dash
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
+LINK⚫
+
+
+
 
 
 
