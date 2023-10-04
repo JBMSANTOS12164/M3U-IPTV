@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="TV SANTOS", CINEMAX
-https://cdn.servetraff.com/files2204/63/408/3438/football.mp4
+https://amd03eng.akamaized.net/hls/live/2032281/cam1_fazenda15/hdntl=exp=1696538106~acl=%2f*~data=hdntl~hmac=164b959dbebc35b8eeb95c1555c84995f8be8b80ddad7c9918139681e20a89f4/master_720.m3u8
 
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
@@ -26,6 +26,9 @@ LINK⚫
 
 
 #####################################################################
+https://www.embedflix.net/tv
+
+
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV", NOME⚫
 LINK⚫
