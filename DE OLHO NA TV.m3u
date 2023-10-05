@@ -313,16 +313,25 @@ LINK⚫
 
 
 
-##################################### RÁDIAS ###########################################
+################################ RÁDIAS - https://www.radios.com.br/  #####################################
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio39757_1472493832.jpg" group-title="RÁDIAS" , 
+Rádio Antena 1 FM 101.7 - São José do Rio Preto - SP - Brasil
+http://stm34.conectastm.com:9596/stream
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="RÁDIAS" , 
+Rádio Transamérica 100.1 FM - São Paulo - SP - Brasil
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="RÁDIAS" , NOME⚫
 LINK⚫
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="RÁDIAS" , NOME⚫
-LINK⚫
+
+
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="RÁDIAS" , NOME⚫
 LINK⚫
+
 
 
 
