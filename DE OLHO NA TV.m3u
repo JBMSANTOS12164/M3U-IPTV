@@ -346,14 +346,14 @@ LINK⚫
 
 ##################################### FILMES ###########################################
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES" , NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/79/2c/a8792c9066294181dfe7df1b8822274f.jpg" group-title="FILMES" , Cinquenta.Tons.de.Cinza.Sem.Cortes.2015
+https://www.googleapis.com/drive/v3/files/1EqzHviX68B8V7jA6ysQHbaCrUJ9L4No2?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES" , NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/79/2c/a8792c9066294181dfe7df1b8822274f.jpg" group-title="FILMES" , Cinquenta.Tons.Mais.Escuros.2017
+https://www.googleapis.com/drive/v3/files/1gURF-cRXQo_oLgHh4WK07MLen1MAvY68?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES" , NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a8/79/2c/a8792c9066294181dfe7df1b8822274f.jpg" group-title="FILMES" , Cinquenta.Tons.de.Liberdade.2018
+https://www.googleapis.com/drive/v3/files/1s4xu2XPfI5NowmUW8rVuB2iEVFusZgEG?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="FILMES" , NOME⚫
 LINK⚫
