@@ -3,10 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://em-content.zobj.net/source/facebook/304/no-one-under-eighteen_1f51e.png" group-title="PORNO" , SEXO - Proibido para menores de 18 anos.
-https://raw.githubusercontent.com/JBMSANTOS12164/M3U-IPTV/main/porno.m3u
-
-
 
 ######################################################################################################
 ##################################### CANAL DE FILMES - TV ###########################################
@@ -342,6 +338,33 @@ LINK⚫
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gU8iKD_muOPLKRWsyGfeoO-j4lqnMF7DVyodkFLEJFO7c8kKqPsGAPT5a5Jxgcxpf8g" group-title="CANAL DE FILMES" , Olho na tv
 LINK⚫
 ######################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+###################################################################################################################
+#EXTINF:-1 tvg-logo="https://em-content.zobj.net/source/facebook/304/no-one-under-eighteen_1f51e.png" group-title="PORNO" , SEXO - Proibido para menores de 18 anos.
+https://raw.githubusercontent.com/JBMSANTOS12164/M3U-IPTV/main/porno.m3u
+
+
+###################################################################################################################
+#EXTINF:-1 tvg-logo="https://www.unoeste.br/Areas/RadioEscola/Content/upload/img/00000=0ERBdXTEFUMZBjUPBDMwADM.jpg" group-title="RÁDIAS" , RÁDIAS ONLINE
+https://raw.githubusercontent.com/JBMSANTOS12164/M3U-IPTV/main/R%C3%A1dias.m3u
+
+
+
+
+
+
 
 
 
