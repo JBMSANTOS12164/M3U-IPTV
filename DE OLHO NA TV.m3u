@@ -5,7 +5,7 @@
 #EXTM3U x-tvg-url="URL DO EPG"
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://static.epg.best/br/Sbt.br.png" group-title="FAVORITOS",SBT
 
-
+#EXTM3U x-tvg-url="http://192.168.1.107/guide.xml"
 
 #########################################################################################
 #########################################################################################
@@ -162,8 +162,107 @@ https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w1444669797.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6XVV8XGitoxcmysYvjFkG7AIJC8XIDfjR7h75F9qHDPHgCEfxzBg0eqRirs70uVSgTF6LuNIhjdQSdam1m8hFwjH9kts8fgXlJOEgeIaFtSGa2xO1pTP5ruuOc3BM78UmcWiauvK8ptAtdOefw24evsrUSKYKl2VNSbk1AI72drH1pfScLg2JTOg/w200-h100/TV%20GRANDE%20REDE.jpg" group-title="CANAIS DE FILMES",  TV GRANDE REDE 
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1443883549.m3u8
 #########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="Ihttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7ciKRqKoH8wPFWtiT2O1LnBghpFF-Xnh8roW4KiIWMmigbnDtJVPrFX_OkLfBJO9CsaZ6bxdat1oc0-kW7CAYsdcZ0s0eQmWr14hdWOMeBwWBcn3idfoanagG6Of96DRBZ0x3sOtDd0NduzD8jTUr5tX7lFd06I3ULQMWoS3FXEP91paov_WcNBgW/w200-h100/TV%20MEU%20XOD%C3%93.jpg" group-title="CANAIS DE FILMES",  TV MEU XODÔ 
+https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1163209519.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w200-h100/RUNTIME.jpg" group-title="CANAIS DE FILMES",  RUNTIME CINE ESPANTO 
+https://stream.ads.ottera.tv/cl/231106cl452t437j0mq8fn9ag0/1280x720_3071200_0_f.m3u8?i=728_4865
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjIpo3GgK_Gwydi9Gzk7QOByyjRz3O_GGr5s8QvFw5aJalCpbId7qtN0ueYni_PcYYb1gLsH4FxDKGYFy1IH0rn_CDHoZCVYyFmVaVsmzHiXUMIQ6_BhYRQtA45iQbq-v-5BOBTzhblWxd7QkWGxSgI0pKrJCldttJYa4MIFWsw6D2NPsCKdVcO_aM/w200-h100/TOP%20MIX%20TV.jpg" group-title="CANAIS DE FILMES",  TOP MIX TV FILMES 
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w572431873.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w200-h100/RUNTIME.jpg" group-title="CANAIS DE FILMES",  RUNTIME 
+https://stream.ads.ottera.tv/cl/231106cl45389sqshfmklr9nrg/1280x720_3071200_0_f.m3u8?i=728_2153
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ehJ6Q88fcvgl_Zwx2ag8Uc8duA4ph5xIxjbJ9LG_ZOlrjcbEvGO2Qx1MjI2traetsFNch3qXIZNHQ7Djb5UFTTr2UR9AAe_jWkWo01HEUuNIBD9XLtfTe6Fk2f5Cxznq05V0zmnMwRD47MOMEmnW7HBxv2NGI9Jcbpx80EoTkOVMHUKd1xoHgsiM/w200-h100/SEVEN%20TV.jpg" group-title="CANAIS DE FILMES",  SEVEN TV 
+https://video01.kshost.com.br/aubrey3291/aubrey3291/chunklist_w824798315.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w200-h100/RUNTIME.jpg" group-title="CANAIS DE FILMES",  RUNTIME COMÉDIA 
+https://stream.ads.ottera.tv/cl/231106cl4537il1duvopdjp1c0/1280x720_3071200_0_f.m3u8?i=728_2553
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdzfxls3_piOx669Ke3SNdCAnJfvgYeIZaPRPj2gSJDExhvB6E19kKlmhK8gYW-joJJKGcJMZ3vtotFWe4EO5YS29tWI2oWG65P8Mt9NXJMfJ2qxPfBsc7fmARnzfjMpkMzjiSh_5dGR2Hmq6dzsZ8d81U23OSJO1ww4ckoCHu2E9OAe6U7TSIWxA/w200-h100/TV%20J.SID.jpg" group-title="CANAIS DE FILMES",  TV J.SID 
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w107636075.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jAMEZ3Nu9JFotOXhmXggu7EyBdbfr4obDLXwFHbw48wUdUgdTpmjNkacaPoidVeoQOoohV1KnlWxY9UY7I6BfA8nH-EaRakLEoDOdghpLqkg6JbQB4DvACSD6mn12WsYLjroKk1HeyWR7AiQ_WYxSJ6n6LVTbtNybNzohfsOlb5l2CAb2-tXRRfp/w200-h100/CAMPOS%20WEB%20TV.jpg" group-title="CANAIS DE FILMES",  CAMPOS WEB TV 
+https://stm1.rbsys.radio.br/joseroberto9307/joseroberto9307/chunklist_w1617925944.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHm8gXhAzfpY-cwrOKnoDGiYC_mqqPq6T3nVB1b-P7_ekr0Pf6nzy-A24mZ6EtMpRCDL_Fc-XA3XrXwD3C5uKbHJ_kIvW--1hnnSVjgYKru6RjGbI_1L3U74V8f-JXZuBVWCE9272PDFzZzUnK6djA4bShXZGWoOOsTmOB_7S4eMh8P9iDHRm8laeg/s200/DEMAIS%20TV.jpg" group-title="CANAIS DE FILMES",  DEMAIS TV 
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w759367737.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyetCXRTR9VHWR27EvFp7t31ipBXm0uBcpR_28fJ4_hUwmTwb5KkNO5sS_SjdHZSQlNY5-aJB-HGHPT0i2RcPk9fMbjcdUNEeVVRrJaUs2b2RX7gfLe2nB2PHJ8vaded-OqNpiyDYlPM3aVTc8F1Ws5gI0tBqMMkQAJX3_jp22-r42XBCpO9_K7-C/w200-h100/REDE%20QDM.jpg" group-title="CANAIS DE FILMES",  REDE QDM 
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1662060446.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6bscHhDvh0BpJEGpxQsukTmRmdcsN2lG02fQTmtsluCQpPLdoh9-3nIpmuyiWxXXzrhdoxTLCHvALfwkSwh_scBjWKBgzsv9yjiSuwYv6AY0eg0qsDyo4m82anwqmQXmz_3naOgUiiz5v078kvaFH_0P53QsDJ0laUxTG914E0A8bG-ctkAXjWDb/w200-h100/BLITS%20TV.jpg" group-title="CANAIS DE FILMES",  BLITS TV 
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w1888730366.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQUzx9hJMUPW3tiEV-Dkbhk-stt9FrCY868hdTOw_JQj8TqcfSsXRpOjIJdk2qEUqa1xMPBQg4_MFAddYL7E2JuLuK4YzpztuX-AA086_oyPf2f0golkTPYylSAG_ooDZ9C-Wl1F218rh2Kz9x0iLPS6Zk0uiHNFMwGMRF74shNuwJyiKTlJBXbDSY/w200-h100/LAVRAS%20CE%20TV%20WEB.jpg" group-title="CANAIS DE FILMES",  LAVRAS CE TV WEB 
+https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w690568070.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w200-h100/RUNTIME.jpg" group-title="CANAIS DE FILMES",  RUNTIME FAMÍLIA 
+https://stream.ads.ottera.tv/cl/231106cl459had5jip8pjrf3i0/1280x720_3071200_0_f.m3u8?i=728_5589
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEz7tTaqud5vLZy4BmR2-HfpEe9Q60tUw3-gho8yxhtWKM_JnEVOqlTaA4Q2b6vI-e61s-DBSECYEMW4RceTF17xUX-SlrfaEyYhrJ7bTUzwWTTzGxK9YQlNQsWiDCHERuM50Z-XsIbnVjkhvIIV_41XOMDD8jovHLn-xKQKKJHGlKP8JsWfxpM1s2/w200-h100/QTAL%20CHANNEL.jpg" group-title="CANAIS DE FILMES",  QTAL CHANNEL 
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w1152406715.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8g6LZ0tq-XYBKmzQzblgOUwJTNWXbvIDttQmO_kho-zMnPceZBfiwsc-KfA_09OU2DP06-JsJABqgRcWq6Loydb5JoZcsBuFnPg9ZDfPWpiedpJ4SUu50LPtFQ4ChjjEshAGbXqNTmkh1DD-62xdg30xO8G1-Y0sbhdExwNi_iONF4dJDtev76-hZ/w200-h100/TV%20VARGEM.jpg" group-title="CANAIS DE FILMES",  TV VARGEM 
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w791424097.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Gp4yTCAgWsfvRmQDGwJX7RwafTrl36HfWFLCoIA0FDtC5xDpl-QIbiuW3_FOtsguqLIg19dwpXu7vGzbvQbNiDRD6qBfEZl-lO_-bVJ3cKZiJSji6huLoB1jtEK2MuknfM9Xzk_bzV92WDP2sIsqTneiUzqt5lhWhCYpSimg2loDb14dc1JaKO8q/w200-h100/TV%20MARCHETI.jpg" group-title="CANAIS DE FILMES",  TV MARCHETI 
+https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp5hqogTJdmUrM_VSL2-_WrpL9EyexUvNPf7wwJJmD1YhCnr7gRt-__xuOYAVy5OTiUvT_HcUwNh1AVbaDtqog1HZzFQpBiNNcuOwodMDZg4ih9P0XXMA2fcQwIfuD3U5CZtP-3uy_16uxyZ6PjocdrYTKDtZazD9lfRRMpNU-edZTwTpr5kEGKDga/w200-h100/TV%20RIO%20MADEIRA.jpg" group-title="CANAIS DE FILMES",  TV RIO MADEIRA 
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/chunklist_w775461941.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNWv_KdkNanWQeCeV8T95Jx6053A4RkicOe1766L1zsLRz7a79iROsABkl9yVOAhhr4t6DdpQ61gOeWAsoQxQzoWxIa9LeHjJh2KCye8G2Ed5wQlebmBlo7AVrW-6tH5e6iYkeb-mAiS1yomUx_MkjE-6QjNrKLl_vumN9WXYLkPIAMWgH2lNzRvLa/w200-h100/TV%20GALLO.jpg" group-title="CANAIS DE FILMES",  TV GALLO 
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w845922865.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdIpEr5bPDkkCOktTq0LA2tpPCfldwfRP8-0ppPG5KVHvW54mC30_4R_cVkbaG5AndHfQZ9290-ugzgGklh0phxHyuMc45OBnuc2fDNOTEEsUz34lNtq5wXy_h4l-BWQwgihW30TFivig-NJv-5J5RiI4fnYK6buH4fisIZeFYIyP8DJYPXRsV1O_-/w200-h100/VIA%20MORENA.jpg" group-title="CANAIS DE FILMES",  VIA MORENA 
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHY0Jruk2Zb68oamWbaXNOLh_2Z8a7aiHRYYxM25hGrID4kN4Zzh8zGpY29pPITuF0vdL2cAnXTGDoixK4AdVImp4t_qkrG67tAhtBFTVzhY6ppzMcDbpnHVoDATk1WWXqkOPFobCzCUvNQvvK3GRd5YUhCWHACk0xFNovhgl8eIvXCwfLdIQKq_CV/w200-h100/TV%20GALEGA.jpg" group-title="CANAIS DE FILMES",  TV GALEGA 
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmo2IMG2aUQ3SuLIoee-UmvAwNwN1ANaoBscDgKeKhB1LAmWBt3ydzJpihPXlcyvr_ZTUzYLjPVM1T0Fji2fqs_Ri4Ag9klsgv6wDVv2PROJEAz7Jjy8LjVX8YtJW-e-ievgzG0qh5_Tgvpj9JQLqjSPtPY-wyislbDQf9RGJvVxR1b0pfvCWZK5S1lwA/w200-h100/TV%20PBC.jpg" group-title="CANAIS DE FILMES",  TV PBC 
+https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w1702897633.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhji64zWTuPk9qqxs7uhFsJKuG9FGS0EKMZM_LRulZzB91X3vUKkTYdolkR_7W-4mZcvsQMDEUFpd-bVWCZ1YKt3grUYfsKrwmuOrmUcYiBOaA2MXirA4vuZp9Dsp8GJbLJ0GJ1TNyjKcGGIpQXtlNjvI0pGY6v-W7f7UE4f5c625F7C1o6G0myvYNM/w200-h100/TV%20DIGITAL%20BIRIGUI.jpg" group-title="CANAIS DE FILMES",  TV DIGITAL BIRIGUI 
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/chunklist_w2067248612.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP4bPi0BtzLoeCZB7j9rAMiUyXxeA_Ya5TMegX4FyErgSw-76AOeq1c63Oo-Vq3Tb_UVnU6R4GJMveeg9BikZkkqw1iWFVQwWjEM0H9d5Lxp0THb3WPbs17Pkrwanl94l5n8LrLceuCZYVxiL8zH-iSaRTnQ4c_1r1xSaES-zuCPkn5spQStriTzjF/w200-h100/TV%20RIO%20GRANDE.jpg" group-title="CANAIS DE FILMES",  TV RIO GRANDE 
+https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist_w1874746382.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7j1KqaHX1P-cISAsaTQjTsYvgjBxd3fbjBGpsDeF0kT6uZQwZHae0xc8uQojob_lnbbRHCSK4CfNgr9HjWhqjvierdGPCVLKtqPJDUTe2W6iezaJEmjaULt1GktPy6ValIWOy9M3qjFBBrvt8DdWDWh7N9Gm0mjrO2yE8inkt0UXmFIBtTS-d1Wym/w200-h100/ORIUNDI%20TV.jpg" group-title="CANAIS DE FILMES",  ORIUNDI TV 
+https://stmv5.samcast.com.br/oriunditv/oriunditv/chunklist_w983611709.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCoR-5UW2l22FE5HbvU8TxkGXPvJr4IFGeJKqyPTXPht0ouyj11Atbenc4_SVfAleC3KKYOcxfVgUfps4ggi7YN5y7Hbrz-O687qfLdMd9Efc4jyy5eH5fOEYRQ_Dw_oXlCDzrayDPHy0tMBHA8PFzzDidRkbJe0XA5sWBOvBO12WyqWHHu-zu_BWy/w200-h100/TV%20ONE.jpg" group-title="CANAIS DE FILMES",  TV ONE 
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w2000898313.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMSPqW4x4k9oO-4AM28vHX1q44MA1d1MwAAGfR6vl-VO2Uxxu9g_4VdchlT6vYfsHfLUjApyUBH8-yF_Ma-O5B01bQrbKaKYhgDzCoBax7oUhj3Nq_dNamem7oU3l28ooFYfP1EhVsxkawpQ__XTue4UjwxLIMNGc2pc6bxHvOx5nagVbpSyN1GCBJAFo/w200-h100/TV%20CNB.jpg" group-title="CANAIS DE FILMES",  TV CNB AMERICAN 
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMSPqW4x4k9oO-4AM28vHX1q44MA1d1MwAAGfR6vl-VO2Uxxu9g_4VdchlT6vYfsHfLUjApyUBH8-yF_Ma-O5B01bQrbKaKYhgDzCoBax7oUhj3Nq_dNamem7oU3l28ooFYfP1EhVsxkawpQ__XTue4UjwxLIMNGc2pc6bxHvOx5nagVbpSyN1GCBJAFo/w200-h100/TV%20CNB.jpg" group-title="CANAIS DE FILMES",  TV CNB ORLANDO 
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-8jZgG3GWy5y0rVHDAax7aWXm7Y48m0UjtaAn5GFO9MpVAG7_vsxVeom1ZaWPUHcMLLoNUW_TnpM6sAMGitlAK1IeFVNYJJ9AhWnsoOhKBsywkI9hrD9o1KysVVCTvEBEfjFJcB3HebjRVy8K1Vyr7Ui2EQlhhk7Rl2UEM7mb5LJVNgncZqwgxJD/w200-h100/TV%20GOSPEL%20EXODUS%20DE%20SALVADOR.jpg" group-title="CANAIS DE FILMES",  TV GOSPEL EXODUS DE SALVADOR 
+https://stmv7.samcast.com.br/tvexodus/tvexodus/chunklist_w2071013738.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8V6pGIwWfxxHR2g9yrftVfdRGGNlF98r0cgdLn2EUFhelbATQyQfUgBSxFo7cEXTQkxuf1DObMRq03IdEGVfBQQwT_qrbTrpepun_KqO3knbSx88EAb6WR0PbeP2ETeBcw0Pden_H5e6Z0sZELXWUAjmhAUIkBJnV5mKtf1AztOQzT-nCcs58iVhn/w200-h100/KURIAKOS%20CINE.jpg" group-title="CANAIS DE FILMES",  KURIAKOS CINE 
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1271629475_b30048000_sleng.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFh7VGp6EPJ4uPjQFLKiYgwuURNEI0ZZmFHrEwh-Idd55Ui2jiyNnGdK6jv3AefNyErlQKvSjnhJXkPEUFsniAriYjtPej_OJ5hv_KbFa8GlhEQH9aCFhofbJg2sngUqgdeBwTWeXaaIOrcJBMaspZlP3_7CshowcGCIwN1I5hbFO1mE8F1GoRAIpH/w200-h100/TV%20DIVERSIDADE.jpg" group-title="CANAIS DE FILMES",  TV DIVERSIDADE 2 
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1593316744.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w200-h100/RUNTIME.jpg" group-title="CANAIS DE FILMES",  RUNTIME CRIME 
+https://stream.ads.ottera.tv/cl/231106cl45ei5n227agadknbfg/1280x720_3071200_0_f.m3u8?i=728_4864
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbLpnIzpICipjULZ7L8J6UnsPM7son2KsbV-B1_-bFWrlNWQc3Kv7ABl77xltWKJlDrLD-59W5VRZm-9-BHTSpjdp-AzT0FZKjMGbQ4Wx9Tuugl658MMlVAEanhItQ7dNQCGqC6Kpury0J-jMES4kS9LgReVCtRMBE3ldFXPGt5uPB7IUpkDDxuwI/w200-h100/RUNTIME.jpg" group-title="CANAIS DE FILMES",  RUNTIME ROMANCE 
+https://stream.ads.ottera.tv/cl/231106cl45ei293tk3dntlhj9g/1280x720_3071200_0_f.m3u8?i=475_4866
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iSDCEA0E8-rMC7_MMTZys8E0LmHHUNNLmU2rbm5owMuppzbvituQlqn3amouze4Zx78jv8tyEsaLTy_QkYvGP3Zo_oGa0bxSSqXNitli3zmviRM_Ga1d0lFs4KfsfrA39iKESYJyFKojdBxEsiUEIt9p5sPTcr2cgMaVewaLBVzyPnS5R4Hygkeb/w200-h100/CENTRAL%20TV.jpg" group-title="CANAIS DE FILMES",  CENTRAL TV 2 
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w1454634516.m3u8
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd3WKhA_7X3GMPBQXKdfNMXNbDN9efkL6lBVAQO6UG4-b7qEVtN1FJZi8KuGRfki4IH4U9Y530Qrf6WINtWs61glFHstIrvk9IF_0rUPhqCHDs5BTmxu7D2Vi1GiImykchqs9LT0qa7SYj8ocYjztqYfNahQEmcvIC_AEEwf0ZAdhiQiyAR4gabzTy/w200-h100/MYTIME%20BRASIL.jpg" group-title="CANAIS DE FILMES",  MYTIME BRASIL 
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #########################################################################################
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
 LINK⚫
@@ -216,45 +315,20 @@ LINK⚫
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
 LINK⚫
 #########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
 LINK⚫
 #########################################################################################
@@ -329,83 +403,12 @@ LINK⚫
 
 
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CANAIS DE FILMES", NOME⚫
-LINK⚫
-#########################################################################################
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#########################################################################################
+https://www.olhosnatv.com.br/
 
 
 #########################################################################################
