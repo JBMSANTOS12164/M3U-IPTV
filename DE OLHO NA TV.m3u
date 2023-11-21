@@ -289,16 +289,12 @@ https://www.olhosnatv.com.br/
 #########################################################################################
 #####################################    EXEMPLO    #####################################
 #########################################################################################
-#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="IMAGEM" group-title="CATEGORIA", NOME
-LINK
-
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫", NOME⚫
+LINK⚫
 
 
 #EXTINF:-1 tvg-id="LINK⚫" tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫", NOME⚫
 LINK⚫
-
-
-
 
 #########################################################################################
 https://github.com/JBMSANTOS12164/M3U-IPTV
