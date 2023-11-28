@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="tv.amazonia.br" tvg-name="Globo Amazônica FHD" tvg-logo="https://liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Amazônica FHD
+http://rdns.tv:80/847484838/3836382792/48520
+
+#EXTINF:-1 tvg-id="URL" tvg-name="NOME" tvg-logo="IMAGEM" group-title="CATEGORIA", NOME
+LINK
