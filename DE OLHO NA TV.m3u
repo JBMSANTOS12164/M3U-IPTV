@@ -289,11 +289,11 @@ https://www.olhosnatv.com.br/
 #########################################################################################
 #####################################    EXEMPLO    #####################################
 #########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫", NOME⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOMECANAL⚫
 LINK⚫
 
 
-#EXTINF:-1 tvg-id="LINK⚫" tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫", NOME⚫
+#EXTINF:-1 tvg-id="LINK⚫" tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOMECANAL⚫
 LINK⚫
 
 #########################################################################################
