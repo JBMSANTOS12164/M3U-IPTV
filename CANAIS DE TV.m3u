@@ -3,12 +3,135 @@
 
 
 #EXTM3U x-tvg-url="URL DO EPG"
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://static.epg.best/br/Sbt.br.png" group-title="FAVORITOS",SBT
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1632031497.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1681863672.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w637162972.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1341677285.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3698/3698118.png" group-title="CANAIS DE FILMES", TV
+LINK⚫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #########################################################################################
 #########################################################################################
-################################# CANAIS DE FILMES ######################################
+################################# CANAIS DE FILMES NAO ABRE NO IPTV #####################
 #########################################################################################
-#########################################################################################https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w1381878235.m3u8
+#########################################################################################
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w1381878235.m3u8
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w854465040.m3u8
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist_w2049096922.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1830237366.m3u8
@@ -95,8 +218,37 @@ https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w247361378.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 
-
 https://www.olhosnatv.com.br/search/label/Filmes?updated-max=2023-10-27T08:00:00-03:00&max-results=20&start=20&by-date=false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -169,3 +321,15 @@ https://amg01768-flou-floucaribe-canelatv-cgucr.amagi.tv/playlist/amg01768-flou-
 
 
 https://www.cxtv.com.br/tv/categorias/filmes
+
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫", NOME⚫
+LINK⚫
+
+
+
+
+
