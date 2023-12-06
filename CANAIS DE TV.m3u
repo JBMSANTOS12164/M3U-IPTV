@@ -1,4 +1,14 @@
-﻿https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w1381878235.m3u8
+﻿#EXTM3U
+
+
+
+#EXTM3U x-tvg-url="URL DO EPG"
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://static.epg.best/br/Sbt.br.png" group-title="FAVORITOS",SBT
+#########################################################################################
+#########################################################################################
+################################# CANAIS DE FILMES ######################################
+#########################################################################################
+#########################################################################################https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w1381878235.m3u8
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w854465040.m3u8
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist_w2049096922.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1830237366.m3u8
