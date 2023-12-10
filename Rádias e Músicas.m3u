@@ -4,30 +4,6 @@
 
 
 
-#EXTINF:0, Rádio Verdes Mares 92.5 FM Verdinha - RÁDIAS
-https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
-
-#EXTINF:0, Rede de Notícias 1300 AM - RÁDIAS
-https://str.7br.com.br/listen/rede_de_noticias/stream
-
-#EXTINF:0, Atos FM - RÁDIAS
-https://s.bul.tec.br:8020/32
-
-#EXTINF:0, Rádio HF - RÁDIAS
-http://stm3.stream2.com.br:8964/stream
-
-#EXTINF:0, ARTISTA - MÚSICA
-LINK
-
-#EXTINF:333, ARTISTA - MÚSICA
-LINK
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Rádio Verdes Mares 92.5 FM Verdinha" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg" group-title="RÁDIA", Rádio Verdes Mares 92.5 FM Verdinha
 https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 
