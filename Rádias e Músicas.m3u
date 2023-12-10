@@ -19,8 +19,8 @@ http://stm3.stream2.com.br:8964/stream
 #EXTINF:-1 tvg-id="Rádio Torcida K" tvg-logo="https://img.radios.com.br/radio/lg/radio181380_1627056119.jpg" group-title="RÁDIA", Rádio Torcida K
 http://r15.ciclano.io:4072/;
 
-#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
-LINK⚫
+#EXTINF:-1 tvg-id="Rádio 100.9 FM de Fortaleza" tvg-logo="https://img.radios.com.br/radio/lg/radio17272_1674649533.png" group-title="RÁDIA", Rádio 100.9 FM de Fortaleza
+https://stream.zeno.fm/3x2dtz84qzzuv
 
 #EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
 LINK⚫
