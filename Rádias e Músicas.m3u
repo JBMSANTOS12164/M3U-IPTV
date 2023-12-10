@@ -1,119 +1,109 @@
 ﻿#EXTM3U
 
 
+
+
+
+#EXTINF:0, Rádio Verdes Mares 92.5 FM Verdinha - RÁDIAS
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+
+#EXTINF:0, Rede de Notícias 1300 AM - RÁDIAS
+https://str.7br.com.br/listen/rede_de_noticias/stream
+
+#EXTINF:0, Atos FM - RÁDIAS
+https://s.bul.tec.br:8020/32
+
+#EXTINF:0, Rádio HF - RÁDIAS
+http://stm3.stream2.com.br:8964/stream
+
+#EXTINF:0, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:333, ARTISTA - MÚSICA
+LINK
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Rádio Verdes Mares 92.5 FM Verdinha" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg" group-title="RÁDIA", Rádio Verdes Mares 92.5 FM Verdinha
 https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede de Notícias 1300 AM" tvg-logo="https://img.radios.com.br/radio/lg/radio198413_1675689250.png" group-title="RÁDIA", Rede de Notícias 1300 AM
+https://str.7br.com.br/listen/rede_de_noticias/stream
+
+#EXTINF:-1 tvg-id="Atos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio24838_1576178378.png" group-title="RÁDIA", Atos FM
+https://s.bul.tec.br:8020/32
+
+#EXTINF:-1 tvg-id="https://img.radios.com.br/radio/lg/radio230546_1701954213.jpg" tvg-logo="Rádio HF" group-title="RÁDIA", Rádio HF
+http://stm3.stream2.com.br:8964/stream
 
 #EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
 LINK⚫
 
 #EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
-LINK⚫R
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
 
 
 
 
 
-#EXTINF:111, Rádias - Rádio Verdes Mares 92.5 FM Verdinha
-https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 
-#EXTINF:222, Rádias- Rede de Notícias 1300 AM
-https://str.7br.com.br/listen/rede_de_noticias/stream
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
 
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+
+
+
+
+
+
+
+####################################################
 #EXTINF:333, ARTISTA - MÚSICA
 LINK
 
-#EXTINF:444, ARTISTA - MÚSICA
-LINK
 
-#EXTINF:555, ARTISTA - MÚSICA
-LINK
-
-#EXTINF:666, ARTISTA - MÚSICA
-LINK
-
-#EXTINF:777, ARTISTA - MÚSICA
-LINK
-
-#EXTINF:888, ARTISTA - MÚSICA
-LINK
-
-#EXTINF:999, ARTISTA - MÚSICA
-LINK
-
-#EXTINF:101010, ARTISTA - MÚSICA
-LINK
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:222,Example Artist name - Example track title
-C:\Music\ExampleMusic.mp3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
 
 
 
