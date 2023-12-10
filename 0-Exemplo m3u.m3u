@@ -1,1 +1,51 @@
-﻿
+﻿############## VIDEO #############
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PORNO" tvg-logo="IMAGEM" group-title="PORNO", SEXO
+https://media4.iporn2.com/mediaip2/videos/6/4/6/e/b/646eb7fb09ad83.35555504.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="IMAGEM" group-title="CATEGORIA", NOME
+LINK
+
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="IMAGEM" group-title="CATEGORIA", NOME
+LINK
+
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="IMAGEM" group-title="CATEGORIA", NOME
+LINK
+
+
+############### AUDIO ###################
+
+#EXTM3U
+
+
+
+#EXTINF:111, Sample artist name - Sample track title
+C:\Music\SampleMusic.mp3
+
+#EXTINF:222,Example Artist name - Example track title
+C:\Music\ExampleMusic.mp3
+
+#########################################################################################
+#####################################    EXEMPLO    #####################################
+#########################################################################################
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOMECANAL⚫
+LINK⚫
+
+
+#EXTINF:-1 tvg-id="LINK⚫" tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOMECANAL⚫
+LINK⚫
+
+#########################################################################################
+https://github.com/JBMSANTOS12164/M3U-IPTV
+https://raw.githubusercontent.com/JBMSANTOS12164/M3U-IPTV/main/DE%20OLHO%20NA%20TV.m3u
+
+
+
+
+
+
+
