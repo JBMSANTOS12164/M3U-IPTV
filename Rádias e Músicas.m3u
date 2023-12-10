@@ -22,8 +22,8 @@ http://r15.ciclano.io:4072/;
 #EXTINF:-1 tvg-id="Rádio 100.9 FM de Fortaleza" tvg-logo="https://img.radios.com.br/radio/lg/radio17272_1674649533.png" group-title="RÁDIA", Rádio 100.9 FM de Fortaleza
 https://stream.zeno.fm/3x2dtz84qzzuv
 
-#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
-LINK⚫
+#EXTINF:-1 tvg-id="Rádio 89 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio53721_1504031305.png" group-title="RÁDIA", Rádio 89 FM
+https://r10.ciclano.io:15059/stream
 
 #EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
 LINK⚫
