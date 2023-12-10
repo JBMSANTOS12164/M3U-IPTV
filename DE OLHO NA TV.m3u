@@ -8,29 +8,32 @@
 ################################# CANAIS DE FILMES ######################################
 #########################################################################################
 #########################################################################################
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtFY22UjR1WqhDSgXyD0ihKTEGG2B_BskPlcf-vj_amnGgZGDilYaobqZ7CIfiB9Zjz6AzjKy35DoPVhftUH4BwiMA4i3ysOoH3fIOgRmTujkJnSRZ5H2_Pz9Up-2tJrkfo0z5TDgs7WZSwAeZaDO2gOyrv62768R2iBPy1oLYDPb45MByKhH0ECHzgMk/w200-h100/CARAVANA%20PLAY.jpg" group-title="CANAL DE FILMES", CARAVANA PLAY
-https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicKmtuEVzlO1bmQ-OrMmipa_1d7H_rCRceQ7ODwWM6fVp_uynxUx9itQo9410oCF-xTiZxriltflveGnstcOQHF__9RwvIYt00s8OxU6autSSDqB7-9S_eu7ZR7jBynsDUTJBPmyrHjN_tq7gfkFPyKRrlI-0wMg_xaBFhCpAHOhFTYx6E1CKvQLef/w200-h100/TV%20NOVA%20PLAY.jpg" group-title="CANAL DE FILMES", TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI45izLHCB8XG80w1gQyQuPY023iQUlUTPydEz-HRv1VUwZ7cUnHuJeIURmc3qUEyVcgETOOI7MmP6Ev06k9bZLfL8xKPCJz7fdFncWLww9nTuzSIog_SLKdjxwqRjmVXoUmBc1Q4PQmSziij4UZqas8TxpjuFEAYotogtFEd0TP9QK1LaJoqLOY4G/w200-h100/WEB%20TV%20CL%C3%81SSICOS%20DO%20CINEMA.jpg" group-title="CANAL DE FILMES", TV CLÁSSICOS DO CINEMA
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicKmtuEVzlO1bmQ-OrMmipa_1d7H_rCRceQ7ODwWM6fVp_uynxUx9itQo9410oCF-xTiZxriltflveGnstcOQHF__9RwvIYt00s8OxU6autSSDqB7-9S_eu7ZR7jBynsDUTJBPmyrHjN_tq7gfkFPyKRrlI-0wMg_xaBFhCpAHOhFTYx6E1CKvQLef/w200-h100/TV%20NOVA%20PLAY.jpg" group-title="CANAL DE FILMES", TV NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w200-h100/GLN%20TV.jpg" group-title="CANAL DE FILMES", GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiHMBz0cstD_4_ZqCcQeTWXFvO_oGoIGsd3ojCcAUMkfgoLLJ572Al8ji98X6wMENtBZSYAHQ6PpFJzefDcC5OuYqalQ4NfiUUQXlvow2XLyiHprXrUx_X5N9Obenp56RgnJghZNFPs-qcu8NV5jcZ4_WAtFL_1UYWV85yjccPwVaX3KV6qMBdJXQI/w200-h100/ISTV.jpg" group-title="CANAL DE FILMES", ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtFY22UjR1WqhDSgXyD0ihKTEGG2B_BskPlcf-vj_amnGgZGDilYaobqZ7CIfiB9Zjz6AzjKy35DoPVhftUH4BwiMA4i3ysOoH3fIOgRmTujkJnSRZ5H2_Pz9Up-2tJrkfo0z5TDgs7WZSwAeZaDO2gOyrv62768R2iBPy1oLYDPb45MByKhH0ECHzgMk/w200-h100/CARAVANA%20PLAY.jpg" group-title="CANAL DE FILMES", CARAVANA PLAY 
+https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjhd8a0qbnpyzMexhOlGEc8HeN7IabZgV9wo1YHNRrTwP1flePpVCc_85w815kehj0o877xOhYZbHFOxUiNo4iADc7LyG0dE-gkNsVRL6MrK0AgBkaEXTdj7S6xOFpLwzWho6bqq1aCouA-c0qSMG1nBOw_0Na4iqRpARFP5okSGd3EoqrDuh32uj/w200-h100/XTREME%20TV.jpg" group-title="CANAL DE FILMES", XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w200-h100/GLN%20TV.jpg" group-title="CANAL DE FILMES", GLN TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiHMBz0cstD_4_ZqCcQeTWXFvO_oGoIGsd3ojCcAUMkfgoLLJ572Al8ji98X6wMENtBZSYAHQ6PpFJzefDcC5OuYqalQ4NfiUUQXlvow2XLyiHprXrUx_X5N9Obenp56RgnJghZNFPs-qcu8NV5jcZ4_WAtFL_1UYWV85yjccPwVaX3KV6qMBdJXQI/w200-h100/ISTV.jpg" group-title="CANAL DE FILMES", ISTV 
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGHFwYhGr2zBlHSmFRmF5oZtroFyVKYu4HsLLMzZtGlOMzvw2q3p06j-ez4n7kMsvjcPXhVHokaTHACWdMA7M_3bLVvq3T5qxIUAzP1UmtLqN3fELzjV4NrnH3v0qtiCMHUDSEvddp0ljeZq4bd78OK4MleETItIYUeC1Jpf2Gd7laA4Ah5n8j-bw/w200-h100/GLN%20TV.jpg" group-title="CANAL DE FILMES", GLN TV 
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiHMBz0cstD_4_ZqCcQeTWXFvO_oGoIGsd3ojCcAUMkfgoLLJ572Al8ji98X6wMENtBZSYAHQ6PpFJzefDcC5OuYqalQ4NfiUUQXlvow2XLyiHprXrUx_X5N9Obenp56RgnJghZNFPs-qcu8NV5jcZ4_WAtFL_1UYWV85yjccPwVaX3KV6qMBdJXQI/w200-h100/ISTV.jpg" group-title="CANAL DE FILMES", ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIujiomHyGpA71iarwhqMTBBftWOxV8Z0IuGutSSklHtuUPyqMQB1RZPGKS43S5ao1rmq3-nPWFXTxY0-LzO6zJZ_n__AjQN-f59KByFc6xVyiFWRlPAVngp2MvEUhC6cNHTBL3-BRb_EG8XPAHPeWk6KKxpmybkZqedQndCoX03uGXVr4WJstEt5o/w200-h100/TV%20ARACATI.jpg" group-title="CANAL DE FILMES", TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwKz4lzzLeOh2WxIsSnBaY54IEvSh6KJ0SNRXu1wlIbSH7wjABdN2eJm4nmo017AL1pZkhK7tAI_1I6bkWWB5GD8BL2R994BHG9FXo5P7UIOUW39lpp5E24WRYWb1tiQmSTv1zbEIHBH2iwFELtCvQniNCkKQM5y967GTM3WsDLPrVGtB9pj7UQe67Bo/w200-h100/REDE%20CLOUDING%20TV.jpg" group-title="CANAL DE FILMES", REDE CLOUDING TV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-UJlJ7Miet06VhSxuo9yBFFCYX4gO7-y7QMYnURCVTz4aYzHWEeKWjkaK01Oi95izPWK0SX6Y33LO5GvMP81s7HC9xAJvzPONfkhtk3nOqnUwC1EvaWJzdVGBk8cfJmt0Fo3tiXIEQTYUlN-xqg8dB5PJgrjm7W8q9yRIHefjwg4r3p35-nDFT3Xj/w200-h100/TV%20SONATA.jpg" group-title="CANAL DE FILMES", TV SONATA
+https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w1396583142.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjhd8a0qbnpyzMexhOlGEc8HeN7IabZgV9wo1YHNRrTwP1flePpVCc_85w815kehj0o877xOhYZbHFOxUiNo4iADc7LyG0dE-gkNsVRL6MrK0AgBkaEXTdj7S6xOFpLwzWho6bqq1aCouA-c0qSMG1nBOw_0Na4iqRpARFP5okSGd3EoqrDuh32uj/w200-h100/XTREME%20TV.jpg" group-title="CANAL DE FILMES", XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
