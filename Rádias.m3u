@@ -1,19 +1,73 @@
-﻿
-https://www.radios.com.br/play/playlist/136735/listen-radio.m3u
-https://www.radios.com.br/play/playlist/120732/listen-radio.m3u
-https://www.radios.com.br/play/playlist/162745/listen-radio.m3u
-https://www.radios.com.br/play/playlist/17272/listen-radio.m3u
-https://www.radios.com.br/play/playlist/53721/listen-radio.m3u
-https://www.radios.com.br/play/playlist/107/listen-radio.m3u
-https://www.radios.com.br/play/playlist/23116/listen-radio.m3u
-https://www.radios.com.br/play/playlist/8816/listen-radio.m3u
-https://www.radios.com.br/play/playlist/11376/listen-radio.m3u
-https://www.radios.com.br/play/playlist/213062/listen-radio.m3u
-https://www.radios.com.br/play/playlist/18263/listen-radio.m3u
-https://www.radios.com.br/play/playlist/13520/listen-radio.m3u
-https://www.radios.com.br/play/playlist/148438/listen-radio.m3u
-https://www.radios.com.br/play/playlist/17707/listen-radio.m3u
-https://www.radios.com.br/play/playlist/14216/listen-radio.m3u
+﻿#EXTM3U
+
+
+
+#EXTINF:111, Rádias - Rádio Verdes Mares 92.5 FM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+
+#EXTINF:222, Rádias- Rede de Notícias 1300 AM
+https://str.7br.com.br/listen/rede_de_noticias/stream
+
+#EXTINF:333, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:444, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:555, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:666, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:777, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:888, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:999, ARTISTA - MÚSICA
+LINK
+
+#EXTINF:101010, ARTISTA - MÚSICA
+LINK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:222,Example Artist name - Example track title
+C:\Music\ExampleMusic.mp3
+
+
+
+
+
+
+
+
+
 
 
 
