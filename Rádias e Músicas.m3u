@@ -16,8 +16,8 @@ https://s.bul.tec.br:8020/32
 #EXTINF:-1 tvg-id="https://img.radios.com.br/radio/lg/radio230546_1701954213.jpg" tvg-logo="Rádio HF" group-title="RÁDIA", Rádio HF
 http://stm3.stream2.com.br:8964/stream
 
-#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
-LINK⚫
+#EXTINF:-1 tvg-id="Rádio Torcida K" tvg-logo="https://img.radios.com.br/radio/lg/radio181380_1627056119.jpg" group-title="RÁDIA", Rádio Torcida K
+http://r15.ciclano.io:4072/;
 
 #EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
 LINK⚫
