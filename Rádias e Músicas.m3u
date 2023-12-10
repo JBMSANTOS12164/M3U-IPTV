@@ -1,6 +1,18 @@
 ﻿#EXTM3U
 
 
+#EXTINF:-1 tvg-id="Rádio Verdes Mares 92.5 FM Verdinha" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg" group-title="RÁDIA", Rádio Verdes Mares 92.5 FM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="RÁDIA", NOMECANAL⚫
+LINK⚫R
+
+
+
+
 
 #EXTINF:111, Rádias - Rádio Verdes Mares 92.5 FM Verdinha
 https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
