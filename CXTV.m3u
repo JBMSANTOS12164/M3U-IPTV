@@ -1,0 +1,29 @@
+﻿#EXTM3U
+
+
+
+#########################################################################################
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-header.webp" group-title="Filmes", Cxtv
+LINK⚫
+
+
+#########################################################################################
+#####################################    EXEMPLO    #####################################
+#########################################################################################
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOMECANAL⚫
+LINK⚫
+
+
+#EXTINF:-1 tvg-id="NOMECANAL⚫" tvg-logo="IMAGEM⚫" group-title="CATEGORIA⚫", NOMECANAL⚫
+LINK⚫
+
+#########################################################################################
+https://github.com/JBMSANTOS12164/M3U-IPTV
+https://raw.githubusercontent.com/JBMSANTOS12164/M3U-IPTV/main/DE%20OLHO%20NA%20TV.m3u
+
+
+
+
+
+
+
