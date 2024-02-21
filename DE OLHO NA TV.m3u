@@ -13,6 +13,11 @@
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-green-screen-tv-flat-design-png-image_6221025.png" group-title="TV", TV
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-green-screen-tv-flat-design-png-image_6221025.png" group-title="TV", TV
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-green-screen-tv-flat-design-png-image_6221025.png" group-title="TV", TV
+https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8
 
 
 
