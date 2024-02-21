@@ -8,17 +8,17 @@
 ################################# CANAIS DE FILMES ######################################
 #########################################################################################
 #########################################################################################
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:20
-#EXT-X-MEDIA-SEQUENCE:5083
-#EXT-X-DISCONTINUITY-SEQUENCE:8
-#EXTINF:9.593,
-media_w1416629299_5083.ts
-#EXTINF:10.594,
-media_w1416629299_5084.ts
-#EXTINF:6.34,
-media_w1416629299_5085.ts
+
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-green-screen-tv-flat-design-png-image_6221025.png" group-title="TV", TV
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
+
+
+
+
+
+
+
 
 
 
