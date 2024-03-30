@@ -41,6 +41,29 @@ LINK⚫
 
 
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1708517690.png" group-title="RÁDIAS", Radio Jovem Pan 100.9 FM
+https://stream-168.zeno.fm/c45wbq2us3buv?zs=y7hYsOx4SOemn3xGM_tdpg&1711841764864
+##########################################################################################
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1708517690.png" group-title="RÁDIAS", Radio Jovem Pan 100.9 FM
+https://stream.zeno.fm/c45wbq2us3buv
+##########################################################################################
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg" group-title="RÁDIAS", Rádio Verdes Mares 92.5 FM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist_w151843656.m3u8
+##########################################################################################
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg" group-title="RÁDIAS", Rádio Verdes Mares 92.5 FM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+##########################################################################################
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RÁDIAS", Bons Tempos FM
+https://server02.ouvir.radio.br:8050/stream?1711841973075
+##########################################################################################
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RÁDIAS", Bons Tempos FM
+https://server02.ouvir.radio.br:8050/stream
+##########################################################################################
+
+
+
+
+
 
 
 
