@@ -1,11 +1,16 @@
 #EXTM3U
 
+
+
+
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/qrcode.png" group-title="Variedades", www.listaiptv.gratis
 https://lib.bz/video/site.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvonline.png" group-title="Variedades", www.tvonline.global
 https://lib.bz/video/site_gerou.mp4
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
@@ -36,6 +41,7 @@ https://ythls-v2.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="Variedades",SBT RS (Youtube)
 https://ythls-v2.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
@@ -57,9 +63,11 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2935
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/06/Jpnewstv2022.webp" group-title="Jornalismo",Jovem Pan News (Parabólica)
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band Pará - RBA TV
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 
@@ -69,9 +77,11 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band Minas
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Variedades", RedeTV! TV Arapuan HD (PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/12/redetv-pr.webp" group-title="Variedades", RedeTV! TV PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
@@ -84,18 +94,22 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="Variedades", RedeTV! TV Pantanal (MT)
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="WebTV", Nick Junior (Aberto - Youtube)
 https://ythls-v2.onrender.com/video/qzqHMEH6AMc.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",Kpop TV Play
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/thekpop.jpg" group-title="Música",The K-pop (Youtube)
 https://ythls-v2.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png" group-title="Variedades",PlayTV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/geekdot.png" group-title="WebTV", Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
@@ -132,6 +146,7 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/odiatv.png" group-title="WebTV", O DIA TV (Youtube)
 https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Pública", TV Brasil  Web
 https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
@@ -144,6 +159,7 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/canallibras-1.png" group-title="Pública", Canal Libras
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta SP - Araçatuba
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
@@ -156,6 +172,7 @@ https://stream.ichibantv.com:3827/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="Variedades", Brasil Oeste (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
+#############################################################################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública",TV Cultura - TV Guará (MA)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
 
