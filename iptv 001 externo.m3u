@@ -5,8 +5,12 @@
 ##########################################################################################
 ##########################################################################################
 ##########################################################################################
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvonline.png" group-title="TV", GLOBO
+https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzExOTI0NzAxLCJpYXQiOjE3MTE4MzgzMDEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZGU1MTI2MGUtYmUxMy00MTNiLTg1NGQtYWYwNDk3NjNiZmRjIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tY2UxL3BsYXlsaXN0Lm0zdTgifQ.gGi5-nosFbqLL_QWOZlikB_dvG7ZdZMWfd34AsRsMuKPHVEBNVzwLLA6aDAf3zIrGbEesiJnfridmj_Vqjzc4qXBrDmygt3D_ECwMDKOUHWS2u_vdgCJfI9asblNgsoAQ90uGk1VMK46vPxAprWBs8qXLp436QeHnFq2s79QJgbH-pyRUK-nSyTh8xH81SbG_6kWPNqsTuwHrBizzT3gqTM-G59Q3QSH9MQqvkazBVxi36_er8fW02Ajjjgq29CjM9pLPxwbfrrWoe6iYqqfarU4BcBNivOBjGJd2AyvS1832KnFTbNUze8aVYjIrgjaLjWsGlKztEkCFQf9-RoMvg/nu/f(i=2)/globo-ce1/playlist.m3u8?originpath=/linear/hls/pa/event/vSLjJIsFQzGUqYRfHHoqzw/stream/1555585b-91ef-41ef-ad38-c86d7352df30:SCL/variant/ddf6411a4155e034b89d729281302ee1/bandwidth/2751000.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvonline.png" group-title="TV", GLOBO https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzExOTI0NzAxLCJpYXQiOjE3MTE4MzgzMDEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZGU1MTI2MGUtYmUxMy00MTNiLTg1NGQtYWYwNDk3NjNiZmRjIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tY2UxL3BsYXlsaXN0Lm0zdTgifQ.gGi5-nosFbqLL_QWOZlikB_dvG7ZdZMWfd34AsRsMuKPHVEBNVzwLLA6aDAf3zIrGbEesiJnfridmj_Vqjzc4qXBrDmygt3D_ECwMDKOUHWS2u_vdgCJfI9asblNgsoAQ90uGk1VMK46vPxAprWBs8qXLp436QeHnFq2s79QJgbH-pyRUK-nSyTh8xH81SbG_6kWPNqsTuwHrBizzT3gqTM-G59Q3QSH9MQqvkazBVxi36_er8fW02Ajjjgq29CjM9pLPxwbfrrWoe6iYqqfarU4BcBNivOBjGJd2AyvS1832KnFTbNUze8aVYjIrgjaLjWsGlKztEkCFQf9-RoMvg/nu/f(i=2)/globo-ce1/playlist.m3u8?originpath=/linear/hls/pa/event/vSLjJIsFQzGUqYRfHHoqzw/stream/1555585b-91ef-41ef-ad38-c86d7352df30:SCL/variant/5f72775ae7b2e56e0b5e6d9378b3d6af/bandwidth/1224000.m3u8
+#############################################################################
+
 ##########################################################################################
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="NOMECANAL⚫", NOME⚫
 LINK⚫
