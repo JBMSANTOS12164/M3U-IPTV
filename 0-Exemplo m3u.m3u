@@ -1,6 +1,7 @@
 ﻿############## VIDEO #############
 
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+
 
 
 
