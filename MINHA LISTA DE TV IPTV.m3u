@@ -22,19 +22,61 @@ http://hls1.sua.tv:80/live/globosphd/s.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | REDE GLOBO",Globo BA Sudoeste FHD
 
 
-##################################  REDE GLOBO  #####################################
+##################################  BBB 24  #####################################
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/_pnWvdMdyNlCjNUiv9FGL0zzLPI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png" group-title="Canais | REALITY",BBB Cam 1 HD
+https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/_pnWvdMdyNlCjNUiv9FGL0zzLPI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png" group-title="Canais | REALITY",BBB Cam 2 HD
+https://cr7v.short.gy/manotv/BBBc3/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kCfvcgJ.png" group-title="Canais | REALITY",WebTVBrasileira YT
+https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
 
 
-##################################  REDE GLOBO  #####################################
+##################################  RECORD  #####################################
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD",Record SP HD
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD",Record RJ HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
 
 
-##################################  REDE GLOBO  #####################################
+##################################  ABERTO  #####################################
+#EXTINF:-1 tvg-logo="https://imgur.com/zdnMTtl.png" group-title="Canais | ABERTO",TV Tropical 
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/56l2uCS.png" group-title="Canais | ABERTO",TV Correio- N é 24h
+https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
 
 
-##################################  REDE GLOBO  #####################################
 
 
-##################################  REDE GLOBO  #####################################
+
+
+##################################  BAND  #####################################
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band BA- N é 24h  
+https://ythls.armelin.one/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND",Band RJ- N é 24h
+https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND",Band SP SD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND",Band SP HD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+
+
+
+##################################  SBT  #####################################
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT SD
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT SP HD
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SBT INTERIOR SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior SP HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
 
 
 ##################################  REDE GLOBO  #####################################
